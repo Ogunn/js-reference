@@ -26,4 +26,8 @@ git clone https://github.com/Ogunn/js-reference.git
 cd js-reference
 
 npm install
+
+npm start
 ```
+
+Abra seu browser e navege até: http://localhost:8080/
